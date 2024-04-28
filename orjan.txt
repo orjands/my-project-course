@@ -1,1 +1,3 @@
-Hei, dette er Ørjan sin fil
+Hei, dette er Ørjan sin fil!!
+
+Kule endringer
